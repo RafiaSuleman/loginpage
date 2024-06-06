@@ -1,0 +1,13 @@
+.wrapper{
+    width: 400px;
+    background: white;
+}
+.wrapper h1{
+    fount-size : 36px;
+    text-align: center;
+    color: blue;
+}
+.wrapper button{
+    text:center;
+    align:center;
+}
